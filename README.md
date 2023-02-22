@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hello!
+
+My name is Umair and I am a student studying computer science at Georgia Tech.
 
 <!--
 **umair-z1/umair-z1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
